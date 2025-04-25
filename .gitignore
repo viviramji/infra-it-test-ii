@@ -1,5 +1,7 @@
 node_modules
 package-lock.json
 
-**/terraform/variables.tf
+**/.terraform/*
+**/backend.conf
+**/terraform.tfstate.backup
 **/variables.tf
